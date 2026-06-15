@@ -4,7 +4,7 @@
 
 This project measures the true incremental lift of a marketing campaign from a randomized 588,000-user experiment, then analyzes 68,000 real marketing emails to answer the operational questions that follow: which subject lines, body lengths, send times, and contact frequencies actually engage people.
 
-**Live dashboard:** _[(Streamlit link once deployed)](https://campaign-intel-satyam.streamlit.app/)_
+**Live dashboard:** _(https://campaign-intel-satyam.streamlit.app/)_
 **Tableau view:** _(link once published)_
 
 ---
