@@ -1,0 +1,5 @@
+subject_strength,emails,engagement_pct,acknowledged_pct
+Low (0-1),38017,24.23,5.2
+Mid (1-2),17872,13.07,1.59
+High (2-3),9050,14.14,0.97
+Very High (3+),3414,17.16,0.7

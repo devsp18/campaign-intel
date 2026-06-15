@@ -1,0 +1,21 @@
+CAMPAIGN INTELLIGENCE BRIEFING
+==================================================
+
+EXPERIMENT RESULT (randomized ad vs control)
+  Treatment conversion: 2.55%  | Control: 1.79%
+  Incremental lift: +0.77pp (+43% relative), p = 1.7e-13
+  ~4,343 conversions attributable to the campaign across 564,577 treated users.
+
+TIMING
+  Strongest lift: Tuesday (+1.60pp).
+  No significant lift on: Thursday, Sunday. Budget on these days is not measurably working.
+
+CONTENT
+  Subject lines: lower-hype subjects engage at 24.2% vs 17.2% for the 'hottest' subjects. Salesy subject lines underperform.
+  Body length: shortest emails engage at 33.3% vs 12.3% for the longest. Shorter wins, monotonically.
+
+FREQUENCY (read with care)
+  Engagement vs prior-communication count is U-shaped. The right side of the curve is survivorship (unengaged customers leave the list), not proof that more email causes more engagement. A causal frequency answer requires a randomized frequency test.
+
+METHOD NOTE
+  Lift is estimated only from the randomized control comparison. The exposure-conversion curve is correlational and is labeled as such; heavily-exposed users self-select as likelier converters.

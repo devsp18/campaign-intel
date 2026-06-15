@@ -1,0 +1,6 @@
+wc_band,emails,median_words,engagement_pct
+Shortest,13785,352.0,33.3
+Short,13700,565.0,21.71
+Medium,13598,694.0,15.94
+Long,13644,840.0,14.64
+Longest,13626,1082.0,12.35
